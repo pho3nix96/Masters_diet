@@ -1,3 +1,3 @@
 # Masters diet
 
-Scripts for reproducing statistics and plots for Master's thesis "Gut microbiome marker associations between groups with variable accordance to dietary recommendations"
+Scripts to reproduce the analyses presented in Master's thesis "Differences of gut microbiome markers between groups based on their accordance to dietary recommendations"
